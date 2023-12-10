@@ -1,6 +1,6 @@
 [
 {
-"league": " LaLiga ",
+"league": " LaLiga a ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7878_small.png",
 "hteam": "Athletic Club",
 "time": " live ",
@@ -278,8 +278,8 @@
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
 "hteam": "Osasuna",
-"time": " 12:00 AM ",
-"date": "2023-12-11",
+"time": " live ",
+"date": "12:00 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
 "ateam": "Cadiz",
 "link": [
@@ -319,8 +319,8 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
 "hteam": "Fiorentina",
-"time": " 2:15 AM ",
-"date": "2023-12-11",
+"time": "live ",
+"date": " 2:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
 "ateam": "Roma",
 "link": [
@@ -360,8 +360,8 @@
 "league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8689_small.png",
 "hteam": "Marseille",
-"time": " 2:15 AM ",
-"date": "2023-12-11",
+"time": " live ",
+"date": " 2:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
 "ateam": "Lorient",
 "link": [
@@ -401,8 +401,8 @@
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
 "hteam": "Girona",
-"time": " 2:30 AM ",
-"date": "2023-12-11",
+"time": " live ",
+"date": " 2:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
 "ateam": "Barcelona",
 "link": [
