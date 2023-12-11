@@ -105,20 +105,20 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8529_small.png",
 "hteam": "Sassuolo",
-"time": " 2:15 AM ",
-"date": "2023-12-12",
+"time": " live ",
+"date": "2:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7943_small.png",
 "ateam": "Cagliari",
 "link": [
 {
-"type": "English 1 FHD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
+"type": "English 1 HD",
 "livelink": "https://psls2w.aouydc.buzz/playlist/17115/asdasdasd.101streams.net/caxi.m3u8",
 "trylink": "https://1stream.eu/"
+},
+{
+"type": "English 2 FHD",
+"livelink": "https://plpl111.fdhgfdha.space/playlist/17115/red111.snflsb.space/caxi.m3u8",
+"trylink": "https://1stream.soccer/"
 },
 {
 "type": "Vietnam HD",
@@ -142,12 +142,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-479849_lhd.m3u8?auth_key=1702319629-0-0-8d93d9d99bb4315cbe0d3c6ab1d9ba6a",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-479849_lsd.m3u8?auth_key=1702319629-0-0-8d93d9d99bb4315cbe0d3c6ab1d9ba6a",
 "trylink": ""
 }
 ]
@@ -156,8 +156,8 @@
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
 "hteam": "Celta Vigo",
-"time": " 2:30 AM ",
-"date": "2023-12-12",
+"time": " live ",
+"date": "2:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9910_small.png",
 "ateam": "Rayo Vallecano",
 "link": [
@@ -168,8 +168,8 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
-"trylink": "https://streams.score808.football/"
+"livelink": "https://rdi756.bcdd.space/playlist/17116/redi1111vs.cloudcdn7.net/caxi.m3u8",
+"trylink": "https://1stream.soccer/"
 },
 {
 "type": "Vietnam HD",
@@ -193,12 +193,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912019_lhd.m3u8?txSecret=6ae498a5329b552e1bd7b68c9aebbdb8&txTime=65779cd5",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912019_lsd.m3u8?txSecret=6ae498a5329b552e1bd7b68c9aebbdb8&txTime=65779cd5",
 "trylink": ""
 }
 ]
