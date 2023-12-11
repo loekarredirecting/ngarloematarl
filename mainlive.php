@@ -60,6 +60,16 @@
 "ateam": "Al Shabab",
 "link": [
 {
+"type": "English 1 FHD",
+"livelink": "https://headlinessportsfoot.com/chunklist/hlsch3.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://po1.ainakwalajeen.com:999/hls/usafox2.m3u8?md5=u7Pt62NcAO8taRaoOPdkAQ&expires=1702322133",
+"trylink": "https://lovesomecommunity.com/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/eb7c98d376edfa0f40a6cca28674384b/1702357616679/lhsazur/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
@@ -71,12 +81,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lhd.m3u8?user_session_id=03b4e51df83482c320e72a1fbfb72879&edge_slice=true&sub_m3u8=true&auth_key=1702318384-0-0-7d5be6f11294a32b5d094d5addd5783c",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lsd.m3u8?user_session_id=03b4e51df83482c320e72a1fbfb72879&edge_slice=true&sub_m3u8=true&auth_key=1702318384-0-0-7d5be6f11294a32b5d094d5addd5783c",
 "trylink": ""
 },
 {
