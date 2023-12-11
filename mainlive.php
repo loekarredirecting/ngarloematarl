@@ -9,6 +9,16 @@
 "ateam": "Al Hilal",
 "link": [
 {
+"type": "English 1 FHD",
+"livelink": "https://headlinessportsfoot.com/chunklist/hlsch2.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://usa.raino.site/hls/stream2.m3u8",
+"trylink": "https://embed4u.xyz/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/14494b9c057c0ba6fac7d1c78eb3db7f/1702348516173/rchtwtx/rchtwtx@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
@@ -30,12 +40,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912041_lhd.m3u8?txSecret=39c67ccadfb0d84051abaab99d2bbdfd&txTime=6577722d",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912041_lsd.m3u8?txSecret=39c67ccadfb0d84051abaab99d2bbdfd&txTime=6577722d",
 "trylink": ""
 }
 ]
