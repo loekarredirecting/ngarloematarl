@@ -91,12 +91,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912038_lhd.m3u8?txSecret=7496e650f889efdc16fef11f476a9591&txTime=65779a41",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912038_lsd.m3u8?txSecret=7496e650f889efdc16fef11f476a9591&txTime=65779a41",
 "trylink": ""
 }
 ]
@@ -162,23 +162,33 @@
 "ateam": "Rayo Vallecano",
 "link": [
 {
-"type": "Vietnam HD",
+"type": "English 1 FHD",
+"livelink": "https://plpl111.fdhgfdha.space/playlist/17116/jcvjcks.cloudcdn5.com/caxi.m3u8",
+"trylink": "https://1stream.eu/"
+},
+{
+"type": "English 2 HD",
 "livelink": "0",
+"trylink": "https://streams.score808.football/"
+},
+{
+"type": "Vietnam HD",
+"livelink": "https://live.vbfast.xyz/dfb034db5ac0a2662385f2cd6b279805/1702358512275/rchtwtx/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel1.m3u8?auth_key=3000001702315333-0-0-87f2b3ad8409a5fd100d7867e3ecacbc",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-540088_lsd.m3u8?edge_slice=true&auth_key=1702318924-0-0-8669d83c48c20485dafbd9df900c57d7&sub_m3u8=true&user_session_id=869a731398d27bf8c567a4bc3f50e65c",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-540088_lsd.m3u8?edge_slice=true&auth_key=1702318924-0-0-8669d83c48c20485dafbd9df900c57d7&sub_m3u8=true&user_session_id=869a731398d27bf8c567a4bc3f50e65c",
 "trylink": ""
 },
 {
