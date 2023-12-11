@@ -3,29 +3,29 @@
 "league": " King's Cup ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/2529_small.png",
 "hteam": "Al-Taawoun",
-"time": " 9:15 PM ",
-"date": "2023-12-11",
+"time": " live ",
+"date": "9:15 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/205686_small.png",
 "ateam": "Al Hilal",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/14494b9c057c0ba6fac7d1c78eb3db7f/1702348516173/rchtwtx/rchtwtx@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel1.m3u8?auth_key=3000001702305354-0-0-48ffdb46e2c290b9c4729496520b93bc",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lhd.m3u8?user_session_id=ebefcd88fda2d6e6f5daae25d568f5d8&sub_m3u8=true&edge_slice=true&auth_key=1702308844-0-0-72738ae0bbeb91aabbc7e2b8e95d119c",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lsd.m3u8?user_session_id=ebefcd88fda2d6e6f5daae25d568f5d8&sub_m3u8=true&edge_slice=true&auth_key=1702308844-0-0-72738ae0bbeb91aabbc7e2b8e95d119c",
 "trylink": ""
 },
 {
