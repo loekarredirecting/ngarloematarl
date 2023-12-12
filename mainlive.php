@@ -135,8 +135,8 @@
 "league": " Champions League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
 "hteam": "Bayern München",
-"time": " 2:30 AM ",
-"date": "2023-12-13",
+"time": " live ",
+"date": "2:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
 "ateam": "Man United",
 "link": [
@@ -147,28 +147,28 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
+"livelink": "https://killeredw.site/live/abr_ch1/live/ch1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyMyA3OjIyOjM1IFBNJmhhc2hfdmFsdWU9L2E2MEFZL0FCOFByMWhvK2VHdFYyZz09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAyLjE2NS44Ni42NCZzdHJtX2xlbj01",
 "trylink": "https://streams.score808.football/"
 },
 {
 "type": "English 3 HD",
-"livelink": "0",
-"trylink": "https://embed4u.xyz/"
+"livelink": "https://po1.ainakwalajeen.com:999/hls/do10.m3u8?md5=tYPSZiIaGNirMlktZNSmbQ&expires=1702416268",
+"trylink": "https://lovesomecommunity.com/"
 },
 {
 "type": "English 4 HD",
-"livelink": "",
+"livelink": "https://po2.ainakwalajeen.com:999/hls/do1.m3u8?md5=8oCJcl-awU2_zDcAGRHHFQ&expires=1702416189",
 "trylink": "https://lovesomecommunity.com/"
 },
 {
 "type": "English 5 HD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://s6.noshwsmkm.com:999/hls/do33.m3u8?md5=KxSdzVfbzFd6brhF6kJ3qg&expires=1702416497",
+"trylink": "https://lovesomecommunity.com/"
 },
 {
 "type": "English 6 HD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://s5.noshwsmkm.com:999/hls/do29.m3u8?md5=rzji1Kd5tqJLrUDLOjlEAQ&expires=1702416439",
+"trylink": "https://lovesomecommunity.com/"
 },
 {
 "type": "Vebo HD",
