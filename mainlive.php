@@ -153,7 +153,7 @@
 {
 "type": "English 3 HD",
 "livelink": "0",
-"trylink": ""
+"trylink": "https://embed4u.xyz/"
 },
 {
 "type": "English 4 HD",
