@@ -40,7 +40,7 @@
 },
 {
 "type": "Vebo HD",
-"livelink": "https://obevcimanyd179249207.thapcam.link/live/may1SD/playlist.m3u8",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
@@ -70,12 +70,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912033_lhd.m3u8?auth_key=1702412869-0-0-98d5c3dcd52381ccdef98ca73fffc409",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912033_lsd.m3u8?auth_key=1702412869-0-0-98d5c3dcd52381ccdef98ca73fffc409",
 "trylink": ""
 }
 ]
@@ -121,12 +121,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9911977_lhd.m3u8?auth_key=1702414069-0-0-2bb9c4c101b165e5559e2732c13fb1c4",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9911977_lsd.m3u8?auth_key=1702414069-0-0-2bb9c4c101b165e5559e2732c13fb1c4",
 "trylink": ""
 }
 ]
@@ -172,12 +172,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912064_lhd.m3u8?txSecret=805aed8476410268c7657b1c9f26fa3c&txTime=65790d81",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912064_lsd.m3u8?txSecret=805aed8476410268c7657b1c9f26fa3c&txTime=65790d81",
 "trylink": ""
 }
 ]
@@ -223,12 +223,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912028_lhd.m3u8?auth_key=1702414189-0-0-faec03e2ec7203c362799ca593a8c8c5",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912028_lsd.m3u8?auth_key=1702414189-0-0-faec03e2ec7203c362799ca593a8c8c5",
 "trylink": ""
 }
 ]
@@ -274,12 +274,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-477560_lhd.m3u8?auth_key=1702414249-0-0-aa3b42f9a3a30104a17d83a92d07a2d5",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-477560_lsd.m3u8?auth_key=1702414249-0-0-aa3b42f9a3a30104a17d83a92d07a2d5",
 "trylink": ""
 }
 ]
@@ -325,12 +325,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912032_lhd.m3u8?auth_key=1702414249-0-0-c010b5fec37f1056716a14dd169eef35",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912032_lsd.m3u8?auth_key=1702414249-0-0-c010b5fec37f1056716a14dd169eef35",
 "trylink": ""
 }
 ]
