@@ -96,7 +96,7 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
+"livelink": "https://killeredw.site/live/abr_ch4/live/ch4_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyMyA1OjM5OjE0IFBNJmhhc2hfdmFsdWU9TUdkYndwUlhtdFp4T1JBaWNSM2pVUT09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAyLjE2NS44Ni42NCZzdHJtX2xlbj01",
 "trylink": "https://streams.score808.football/"
 },
 {
@@ -121,12 +121,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-379816_lhd.m3u8?auth_key=1702406269-0-0-4f1909ef2059954fc43b8ec2b4517da0",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-379816_lsd.m3u8?auth_key=1702406269-0-0-4f1909ef2059954fc43b8ec2b4517da0",
 "trylink": ""
 }
 ]
