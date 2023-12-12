@@ -3,8 +3,8 @@
 "league": " Champions League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8640_small.png",
 "hteam": "Arsenal",
-"time": " 12:15 AM ",
-"date": "2023-12-13",
+"time": " live ",
+"date": "12:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
 "ateam": "PSV Eindhoven",
 "link": [
@@ -15,7 +15,7 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
+"livelink": "https://killeredw.site/live/abr_ch2/live/ch2_source/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyMyA1OjE0OjE5IFBNJmhhc2hfdmFsdWU9cEdWTGtCZ2IzUUtPMWJxcWtMRGlJUT09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAyLjE2NS44Ni42NCZzdHJtX2xlbj01",
 "trylink": "https://streams.score808.football/"
 },
 {
@@ -54,8 +54,8 @@
 "league": " Champions League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8588_small.png",
 "hteam": "Sevilla",
-"time": " 12:15 AM ",
-"date": "2023-12-13",
+"time": " live ",
+"date": "12:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
 "ateam": "Lens",
 "link": [
