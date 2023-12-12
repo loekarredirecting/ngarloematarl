@@ -172,12 +172,12 @@
 },
 {
 "type": "Vebo HD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://obevcimanyd179249207.thapcam.link/live/may1SD/playlist.m3u8",
+"trylink": "https://player.4shares.live/"
 },
 {
 "type": "Vebo SD",
-"livelink": "0",
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
@@ -216,8 +216,8 @@
 "league": " Champions League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8391_small.png",
 "hteam": "Galatasaray",
-"time": " 2:30 AM ",
-"date": "2023-12-13",
+"time": " live ",
+"date": "2:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8637_small.png",
 "ateam": "FC København",
 "link": [
@@ -228,7 +228,7 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
+"livelink": "https://killeredw.site/live/abr_ch2/live/ch2_source/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyMyA3OjMxOjM5IFBNJmhhc2hfdmFsdWU9NXV3ZjNvQUsrbE9Ob25zNXFkSW8rUT09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAyLjE2NS44Ni42NCZzdHJtX2xlbj01",
 "trylink": "https://streams.score808.football/"
 },
 {
@@ -243,12 +243,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-710099_lhd.m3u8?sub_m3u8=true&auth_key=1702413124-0-0-7e100264be2b43b5c361e75f96b802ba&user_session_id=1097aaf4bb4a2c86f7c26206a091cb8b&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-710099_lsd.m3u8?sub_m3u8=true&auth_key=1702413124-0-0-7e100264be2b43b5c361e75f96b802ba&user_session_id=1097aaf4bb4a2c86f7c26206a091cb8b&edge_slice=true",
 "trylink": ""
 },
 {
@@ -267,8 +267,8 @@
 "league": " Champions League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
 "hteam": "Braga",
-"time": " 2:30 AM ",
-"date": "2023-12-13",
+"time": " live ",
+"date": "2:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10264_small.png",
 "ateam": "Napoli",
 "link": [
@@ -279,7 +279,7 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
+"livelink": "https://killeredw.site/live/abr_ch8/live/ch8/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyMyA3OjMzOjE3IFBNJmhhc2hfdmFsdWU9OCt6aHNkQ2Q0Z3ZMWno1WjFza2llQT09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAyLjE2NS44Ni42NCZzdHJtX2xlbj01",
 "trylink": "https://streams.score808.football/"
 },
 {
@@ -294,12 +294,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-534857_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1702413244-0-0-58acdbe5d8705d50bfcf9b3422bb62b3&user_session_id=879ed00be08050eb681191cb4b813769",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-534857_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1702413244-0-0-58acdbe5d8705d50bfcf9b3422bb62b3&user_session_id=879ed00be08050eb681191cb4b813769",
 "trylink": ""
 },
 {
@@ -318,8 +318,8 @@
 "league": " Champions League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149_small.png",
 "hteam": "Real Madrid",
-"time": " 2:30 AM ",
-"date": "2023-12-13",
+"time": " live ",
+"date": "2:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
 "ateam": "Union Berlin",
 "link": [
@@ -330,7 +330,7 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
+"livelink": "https://killeredw.site/live/abr_ch4/live/ch4/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyMyA3OjM2OjI0IFBNJmhhc2hfdmFsdWU9cjZENUhqVkJoNHZlUHRqMjhESVdYUT09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAyLjE2NS44Ni42NCZzdHJtX2xlbj01",
 "trylink": "https://streams.score808.football/"
 },
 {
@@ -369,8 +369,8 @@
 "league": " Champions League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
 "hteam": "Real Sociedad",
-"time": " 2:30 AM ",
-"date": "2023-12-13",
+"time": " live ",
+"date": "2:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
 "ateam": "Inter",
 "link": [
@@ -381,7 +381,7 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
+"livelink": "https://killeredw.site/live/abr_ch9/live/ch9_source/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyMyA3OjM3OjIzIFBNJmhhc2hfdmFsdWU9blJVMmN5R2l0UUhwdFdpZ0E3QlZ0dz09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAyLjE2NS44Ni42NCZzdHJtX2xlbj01",
 "trylink": "https://streams.score808.football/"
 },
 {
@@ -396,12 +396,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=6793caf27c0f246221be098ed9b045b5&auth_key=1702413424-0-0-4216d65d84d8c99f2f1f2f6a9b7d9aaa",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=6793caf27c0f246221be098ed9b045b5&auth_key=1702413424-0-0-4216d65d84d8c99f2f1f2f6a9b7d9aaa",
 "trylink": ""
 },
 {
@@ -420,8 +420,8 @@
 "league": " Champions League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10013_small.png",
 "hteam": "Benfica",
-"time": " 2:30 AM ",
-"date": "2023-12-13",
+"time": " live ",
+"date": "2:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9772_small.png",
 "ateam": "Salzburg",
 "link": [
@@ -432,7 +432,7 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
+"livelink": "https://killeredw.site/live/abr_ch10/live/ch10_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyMyA3OjM5OjI5IFBNJmhhc2hfdmFsdWU9dUpJbTNJdS9tZGxRUHRTdzNQNy9OZz09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAyLjE2NS44Ni42NCZzdHJtX2xlbj01",
 "trylink": "https://streams.score808.football/"
 },
 {
@@ -447,12 +447,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-643519_lhd.m3u8?auth_key=1702413544-0-0-8ec25b0b3b0b9e3d07ffd77e0fd04b1c&user_session_id=26776944999055ed2688d6f98000fc86&sub_m3u8=true&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-643519_lsd.m3u8?auth_key=1702413544-0-0-8ec25b0b3b0b9e3d07ffd77e0fd04b1c&user_session_id=26776944999055ed2688d6f98000fc86&sub_m3u8=true&edge_slice=true",
 "trylink": ""
 },
 {
