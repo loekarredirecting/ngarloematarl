@@ -24,7 +24,7 @@
 "trylink": "https://lovesomecommunity.com/"
 },
 {
-"type": "English 4 HD",
+"type": "English 4 FHD",
 "livelink": "https://soccer.freesportstime.com/live/stream_2.m3u8",
 "trylink": "https://streamocean.online/"
 },
