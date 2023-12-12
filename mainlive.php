@@ -40,12 +40,12 @@
 },
 {
 "type": "Vebo HD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://obevcimanyd179249207.thapcam.link/live/may2SD/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
 },
 {
 "type": "Vebo SD",
-"livelink": "0",
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
@@ -70,12 +70,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1702406149-0-0-500c1e9f7ef0f10f9f18c4fd188317be",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912048_lsd.m3u8?auth_key=1702406149-0-0-500c1e9f7ef0f10f9f18c4fd188317be",
 "trylink": ""
 }
 ]
