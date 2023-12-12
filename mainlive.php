@@ -141,6 +141,46 @@
 "ateam": "Man United",
 "link": [
 {
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_3.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "0",
+"trylink": "https://streams.score808.football/"
+},
+{
+"type": "English 3 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "English 4 HD",
+"livelink": "",
+"trylink": "https://lovesomecommunity.com/"
+},
+{
+"type": "English 5 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "English 6 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vebo HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vebo SD",
+"livelink": "0",
+"trylink": "https://player.4shares.live/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/df53f33861a4d7c5611978100a2351fd/1702434463493/rchtwtx/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
@@ -181,6 +221,16 @@
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8637_small.png",
 "ateam": "FC København",
 "link": [
+{
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_2.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "0",
+"trylink": "https://streams.score808.football/"
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/5056155d8336a5e54064d1a9c9d90712/1702434359135/qtdmef4/index.m3u8",
@@ -223,6 +273,16 @@
 "ateam": "Napoli",
 "link": [
 {
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_5.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "0",
+"trylink": "https://streams.score808.football/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/f2eeafdd8c9c8f15ceae21c357ff4ae1/1702434502953/kqpqy3v/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
@@ -263,6 +323,16 @@
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
 "ateam": "Union Berlin",
 "link": [
+{
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_1.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "0",
+"trylink": "https://streams.score808.football/"
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/a3eea147e75ec55abbde517a68bb39ff/1702434575989/lhsazur/index.m3u8",
@@ -305,6 +375,16 @@
 "ateam": "Inter",
 "link": [
 {
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_4.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "0",
+"trylink": "https://streams.score808.football/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/139c0d96c1e925f780c7550fe6733e4a/1702434621102/en7hf6r/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
@@ -345,6 +425,16 @@
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9772_small.png",
 "ateam": "Salzburg",
 "link": [
+{
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_6.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "0",
+"trylink": "https://streams.score808.football/"
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/49f570437e861c2af8168585169fef2c/1702434661942/xqispup/index.m3u8",
