@@ -35,8 +35,8 @@
 },
 {
 "type": "English 6 HD",
-"livelink": "https://ftrhytytyujjtytyjtyjtyjtyjtsdsdd.fordems.live/live/zone-1/chunks.m3u8",
-"trylink": "https://flexsportx.com/"
+"livelink": "https://po2.ainakwalajeen.com:999/hls/do33.m3u8?md5=o33rm_okrFgtbl0Mmpx8Dg&expires=1702414224",
+"trylink": "https://lovesomecommunity.com/"
 },
 {
 "type": "Vebo HD",
