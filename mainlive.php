@@ -19,6 +19,36 @@
 "trylink": "https://streams.score808.football/"
 },
 {
+"type": "English 3 HD",
+"livelink": "https://po2.ainakwalajeen.com:999/hls/bbtsp2.m3u8?md5=i1eXBw2yldlmnAnao7TdEA&expires=1702408620",
+"trylink": "https://lovesomecommunity.com/"
+},
+{
+"type": "English 4 HD",
+"livelink": "https://soccer.freesportstime.com/live/stream_2.m3u8",
+"trylink": "https://streamocean.online/"
+},
+{
+"type": "English 5 HD",
+"livelink": "https://working.latsyoving.xyz/live/n-1/chunks.m3u8",
+"trylink": "https://linecrystal.com/"
+},
+{
+"type": "English 6 HD",
+"livelink": "https://ftrhytytyujjtytyjtyjtyjtyjtsdsdd.fordems.live/live/zone-1/chunks.m3u8",
+"trylink": "https://flexsportx.com/"
+},
+{
+"type": "Vebo HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vebo SD",
+"livelink": "0",
+"trylink": "https://player.4shares.live/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/962d214b5705fc378bb41ff3dac1b8d6/1702434126729/rchtwtx/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
