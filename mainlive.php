@@ -9,6 +9,46 @@
 "ateam": "FK Crvena Zvezda",
 "link": [
 {
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_2.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch2/live/ch2_source/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTMvMjAyMyA1OjM0OjE4IFBNJmhhc2hfdmFsdWU9UUc3Z0dyeHBUVzYyTk5nZHcwMUwrQT09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAyLjE2NS44MS4xNzYmc3RybV9sZW49NQ==",
+"trylink": "https://streams.score808.football/"
+},
+{
+"type": "English 3 HD",
+"livelink": "https://s5.noshwsmkm.com:999/hls/do2.m3u8?md5=M78jRoP56RpQ8y2IUj5D1A&expires=1702496090",
+"trylink": "https://lovesomecommunity.com/"
+},
+{
+"type": "English 4 HD",
+"livelink": "https://s4.noshwsmkm.com:999/hls/do10.m3u8?md5=Et8n_rXb-5sHhY_C-pWAuQ&expires=1702496157",
+"trylink": "https://lovesomecommunity.com/"
+},
+{
+"type": "English 5 HD",
+"livelink": "https://po1.ainakwalajeen.com:999/hls/do22.m3u8?md5=rp2Lc6-xKNOufJsbCx-IYQ&expires=1702496208",
+"trylink": "https://lovesomecommunity.com/"
+},
+{
+"type": "English 6 HD",
+"livelink": "https://po1.ainakwalajeen.com:999/hls/do30.m3u8?md5=xSAWpKcVUzF2YwelTXlWRQ&expires=1702496244",
+"trylink": "https://lovesomecommunity.com/"
+},
+{
+"type": "Vebo HD",
+"livelink": "https://apisportvb90xltcbk.nsnd.live/live/sd-4wyrn4hx81gnq86/chunklist_w1788729355.m3u8",
+"trylink": ""
+},
+{
+"type": "Vebo SD",
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@oldSD/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/67723ecf81c2870b17580e3c70581101/1702531630815/rchtwtx/rchtwtx@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
@@ -30,12 +70,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912043_lhd.m3u8?auth_key=1702492729-0-0-d74691d975268b7f647bdf560c61d5ac",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912043_lsd.m3u8?auth_key=1702492729-0-0-d74691d975268b7f647bdf560c61d5ac",
 "trylink": ""
 }
 ]
