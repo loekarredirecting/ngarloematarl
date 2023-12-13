@@ -90,6 +90,16 @@
 "ateam": "RB Leipzig",
 "link": [
 {
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_1.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch3/live/ch3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTMvMjAyMyA1OjQzOjIzIFBNJmhhc2hfdmFsdWU9cmpLM1BrdE9YTzdXTk1Qa3ZPSXVvQT09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAyLjE2NS44MS4xNzYmc3RybV9sZW49NQ==",
+"trylink": "https://streams.score808.football/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/270c2f1dcab1991ef22cf47d5c070f9c/1702531716888/r8ztat6/r8ztat6@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
@@ -111,12 +121,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912064_lhd.m3u8?txSecret=d4fe2df20c706b4183d32b2aea11a90f&txTime=657a413d",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912064_lsd.m3u8?txSecret=d4fe2df20c706b4183d32b2aea11a90f&txTime=657a413d",
 "trylink": ""
 }
 ]
