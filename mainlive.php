@@ -135,11 +135,21 @@
 "league": " Champions League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
 "hteam": "Lazio",
-"time": " 2:30 AM ",
-"date": "2023-12-14",
+"time": " live ",
+"date": "2:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
 "ateam": "Atletico Madrid",
 "link": [
+{
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_3.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch4/live/ch4/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTMvMjAyMyA3OjM0OjI1IFBNJmhhc2hfdmFsdWU9Sk5LUTErNGdreVdYWlE2TXRYR2ZMQT09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAyLjE2NS44MS4xNzYmc3RybV9sZW49NQ==",
+"trylink": "https://streams.score808.football/"
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/a275621dcf2cdd1d9df696965451fea8/1702532693051/lhsazur/index.m3u8",
@@ -176,8 +186,8 @@
 "league": " Champions League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9925_small.png",
 "hteam": "Feyenoord",
-"time": " 2:30 AM ",
-"date": "2023-12-14",
+"time": " live ",
+"date": "2:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10235_small.png",
 "ateam": "Celtic",
 "link": [
@@ -217,11 +227,21 @@
 "league": " Champions League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
 "hteam": "PSG",
-"time": " 2:30 AM ",
-"date": "2023-12-14",
+"time": " live ",
+"date": "2:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
 "ateam": "Borussia Dortmund",
 "link": [
+{
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_1.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch3/live/ch3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTMvMjAyMyA3OjM2OjM3IFBNJmhhc2hfdmFsdWU9TVdOYXZNWXkxVVB5Njlna0lSOTRoQT09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAyLjE2NS44MS4xNzYmc3RybV9sZW49NQ==",
+"trylink": "https://streams.score808.football/"
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/e1bca5bc0ef39e980e76e9af81397946/1702532884205/rchtwtx/rchtwtx@720p.m3u8",
@@ -258,11 +278,21 @@
 "league": " Champions League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
 "hteam": "AC Milan",
-"time": " 2:30 AM ",
-"date": "2023-12-14",
+"time": " live ",
+"date": "2:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
 "ateam": "Newcastle",
 "link": [
+{
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_4.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTMvMjAyMyA3OjM4OjI2IFBNJmhhc2hfdmFsdWU9NWltcWFMSmhwKzBnVVJidWpwNzk4UT09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAyLjE2NS44MS4xNzYmc3RybV9sZW49NQ==",
+"trylink": "https://streams.score808.football/"
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/63c676e38a8639aa72bb0e99077573c5/1702533055738/r8ztat6/r8ztat6@720p.m3u8",
@@ -299,11 +329,21 @@
 "league": " Champions League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9773_small.png",
 "hteam": "Shakhtar Donetsk",
-"time": " 2:30 AM ",
-"date": "2023-12-14",
+"time": " live ",
+"date": "2:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9728_small.png",
 "ateam": "FC Porto",
 "link": [
+{
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_5.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch9/live/ch9_source/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTMvMjAyMyA3OjM5OjQ0IFBNJmhhc2hfdmFsdWU9eWVGdTJ3dE1HRFNvNVRMQUxqZUI0QT09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAyLjE2NS44MS4xNzYmc3RybV9sZW49NQ==",
+"trylink": "https://streams.score808.football/"
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/5c5d97e9aed1d6f403d2ada1ca6c074b/1702533138177/kqpqy3v/kqpqy3v@720p.m3u8",
@@ -340,11 +380,21 @@
 "league": " Champions League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9988_small.png",
 "hteam": "Barcelona",
-"time": " 2:30 AM ",
-"date": "2023-12-14",
+"time": " live ",
+"date": "2:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9988_small.png",
 "ateam": "Royal Antwerp",
 "link": [
+{
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_6.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch8/live/ch8_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTMvMjAyMyA3OjQwOjQyIFBNJmhhc2hfdmFsdWU9Slkra1ZNYWxiVDhTWnVMSWIyamovZz09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAyLjE2NS44MS4xNzYmc3RybV9sZW49NQ==",
+"trylink": "https://streams.score808.football/"
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://acdn.p2pcdn.xyz/xoilac/channel5.m3u8?auth_key=3000001702490274-0-0-7d6eb9755889e6199950bb92ef6ce760",
