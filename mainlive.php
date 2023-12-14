@@ -3,8 +3,8 @@
 "league": " Europa League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9977_small.png",
 "hteam": "Toulouse",
-"time": " 12:15 AM ",
-"date": "2023-12-15",
+"time": " live ",
+"date": "12:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9941_small.png",
 "ateam": "Lask",
 "link": [
@@ -44,11 +44,31 @@
 "league": " Europa League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7978_small.png",
 "hteam": "Liverpool",
-"time": " 12:15 AM ",
-"date": "2023-12-15",
+"time": " live ",
+"date": "12:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
 "ateam": "Union St.Gilloise",
 "link": [
+{
+"type": "English 1 FHD",
+"livelink": "https://killeredw.site/live/abr_ch2/live/ch2_source/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyMyA1OjMwOjM2IFBNJmhhc2hfdmFsdWU9dXVteXJacE5qb3dpSnloT3VRSU01Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAyLjE2NS44Ni4xMTkmc3RybV9sZW49NQ==",
+"trylink": "https://streams.score808.football/"
+},
+{
+"type": "English 2 HD",
+"livelink": "https://s2.noshwsmkm.com:999/hls/do2.m3u8?md5=fwJXOn_YhvypADM9TNCWWA&expires=1702582277",
+"trylink": "https://lovesomecommunity.com/"
+},
+{
+"type": "Vebo HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vebo SD",
+"livelink": "0",
+"trylink": "https://player.4shares.live/"
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/98764bf1a8f31be8af62d8929c01fe89/1702605327480/rchtwtx/index.m3u8",
