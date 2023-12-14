@@ -105,8 +105,8 @@
 "league": " Europa League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10200_small.png",
 "hteam": "Maccabi Haifa",
-"time": " 12:15 AM ",
-"date": "2023-12-15",
+"time": " live ",
+"date": "12:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10185_small.png",
 "ateam": "Panathinaikos",
 "link": [
@@ -146,8 +146,8 @@
 "league": " Europa League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
 "hteam": "Villarreal",
-"time": " 12:15 AM ",
-"date": "2023-12-15",
+"time": " live ",
+"date": "12:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
 "ateam": "Rennes",
 "link": [
@@ -187,19 +187,19 @@
 "league": " Europa League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
 "hteam": "FC Sheriff",
-"time": " 12:15 AM ",
-"date": "2023-12-15",
+"time": " live ",
+"date": "12:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9729_small.png",
 "ateam": "Roma",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/f84edccd8ea319aadf4773baf91e27f7/1702618490663/lhsazur/lhsazur@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel2.m3u8?auth_key=3000001702575311-0-0-c1e0f1a53dc5149ba64eb277506f1b52",
 "trylink": ""
 },
 {
@@ -228,19 +228,19 @@
 "league": " Europa League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7787_small.png",
 "hteam": "Servette",
-"time": " 12:15 AM ",
-"date": "2023-12-15",
+"time": " live ",
+"date": "12:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9777_small.png",
 "ateam": "Slavia Prague",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/a296ccb10ec634ef63214d861985ab54/1702618555978/z9nbpht/z9nbpht@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel17.m3u8?auth_key=3000001702575368-0-0-5bb7fa91f209677f967efa60f2eb506d",
 "trylink": ""
 },
 {
@@ -269,19 +269,19 @@
 "league": " Europa League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
 "hteam": "Molde",
-"time": " 12:15 AM ",
-"date": "2023-12-15",
+"time": " live ",
+"date": "12:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9917_small.png",
 "ateam": "Bayer Leverkusen",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/2a1e66a34fe060fc1536bd101dea07f1/1702618624092/en7hf6r/en7hf6r@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel5.m3u8?auth_key=3000001702575436-0-0-2086b8bddb27e71ccb31ac8c80481194",
 "trylink": ""
 },
 {
@@ -310,19 +310,19 @@
 "league": " Europa League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7981_small.png",
 "hteam": "Hacken",
-"time": " 12:15 AM ",
-"date": "2023-12-15",
+"time": " live ",
+"date": "12:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8428_small.png",
 "ateam": "Qarabag",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/ad3205e94f894ea691d4f6ba80084a53/1702618676392/kqpqy3v/kqpqy3v@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel3.m3u8?auth_key=3000001702575490-0-0-73697c5855f33fb5048a2113c2d515ea",
 "trylink": ""
 },
 {
