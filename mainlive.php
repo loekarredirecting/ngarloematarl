@@ -10,12 +10,12 @@
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/651977434c31f77f349ac2ed799af5ee/1702605208662/jggujqm/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8?auth_key=3000001702562058-0-0-c97502f262e2cbc11f93fd281604a62f",
 "trylink": ""
 },
 {
@@ -51,12 +51,12 @@
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/98764bf1a8f31be8af62d8929c01fe89/1702605327480/rchtwtx/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel1.m3u8?auth_key=3000001702562139-0-0-cb721e4ef391934ebdf604ea182549d3",
 "trylink": ""
 },
 {
@@ -92,12 +92,12 @@
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/85c32932c92b3680e03bd4b5af109dda/1702605385608/qtdmef4/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel10.m3u8?auth_key=3000001702562208-0-0-d264307cfcd924143c0cda1d220dc779",
 "trylink": ""
 },
 {
@@ -133,22 +133,22 @@
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/cdc57f2c5c4578cd265697afc00d28c5/1702605502786/r8ztat6/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel6.m3u8?auth_key=3000001702562595-0-0-d6a2037b6a1c534c694f44309b8d8f45",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-500894_lhd.m3u8?sub_m3u8=true&auth_key=1702565824-0-0-5c87c1a5a470b206f22c9f3411ca68c5&edge_slice=true&user_session_id=9a5695704bd7a0b6df085b508dd8c4a4",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-500894_lsd.m3u8?sub_m3u8=true&auth_key=1702565824-0-0-5c87c1a5a470b206f22c9f3411ca68c5&edge_slice=true&user_session_id=9a5695704bd7a0b6df085b508dd8c4a4",
 "trylink": ""
 },
 {
