@@ -61,12 +61,12 @@
 },
 {
 "type": "Vebo HD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
 },
 {
 "type": "Vebo SD",
-"livelink": "0",
+"livelink": "https://obevcimanyd179249207.thapcam.link/live/may1SD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
@@ -81,22 +81,22 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-746673_lhd.m3u8?auth_key=1702579145-0-0-9cc7fa9986d38f356c97dbbc08026972&edge_slice=true&user_session_id=4799c73c4272856e6a3ebb75bbf4f6d7&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-746673_lsd.m3u8?auth_key=1702579145-0-0-9cc7fa9986d38f356c97dbbc08026972&edge_slice=true&user_session_id=4799c73c4272856e6a3ebb75bbf4f6d7&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=782a5854a9b79df304ca84608cffb5fc&txTime=657b9209",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-201313_lsd.m3u8?txSecret=782a5854a9b79df304ca84608cffb5fc&txTime=657b9209",
 "trylink": ""
 }
 ]
