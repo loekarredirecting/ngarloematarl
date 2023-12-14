@@ -50,6 +50,16 @@
 "trylink": "https://lovesomecommunity.com/"
 },
 {
+"type": "English 3 HD",
+"livelink": "https://s7.noshwsmkm.com:999/hls/do18.m3u8?md5=Gwa6RCW7VDI847ObaxydUw&expires=1702583456",
+"trylink": "https://lovesomecommunity.com/"
+},
+{
+"type": "English 4 HD",
+"livelink": "https://s4.noshwsmkm.com:999/hls/do33.m3u8?md5=OdtE3Mzm6_fgp5G_cERgtw&expires=1702583500",
+"trylink": "https://lovesomecommunity.com/"
+},
+{
 "type": "Vebo HD",
 "livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
